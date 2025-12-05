@@ -1,0 +1,26 @@
+Yilong Wharf, Chenyu Vale, 215702
+Qiaoying Village, Chenyu Vale, 47800
+Southern Mountain, Chenyu Vale, 6108
+Qingce Village, Bishui Plain, 114652
+Stong Gate, Bishui Plain, 1030
+Dihua Marsh, Bishui Plain, 59763
+Sal Terrae, Bishui Plain, 8502
+Wangshu Inn, Bishui Plain, 3740
+Guili Plains, Qiongji Estuary, 348726
+Luhua Pool, Qiongji Estuary, 80146
+Mingyun Village, Qiongji Estuary, 95700
+Yaoguang Shoal, Qiongji Estuary, 43588
+Guyun Stone Forest, Sea of Clouds, 15603
+Liyue Harbor, Sea of Clouds, 1347291
+Mt. Tianheng, Qiongji Estuary, 174009
+Cuijue Slope, Minlin, 16980
+Jueyun Karst, Minlin, 1530
+Huaguang Stone Forest, Minlin, 481
+Nantianmen, Minlin, 4653
+Qingyun Peak, Minlin, 164
+Tianqiu Valley, Minlin, 15204
+Dunyu Ruins, Lisha, 58700
+Lingju Pass, Lisha, 328756
+Qingxu Pool, Lisha, 457802
+Ground Mines, The Chasm, 132804
+Underground Mines, The Chasm, 51

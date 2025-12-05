@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE config SYSTEM "config.dtd">
+<config>
+    <entry id="background">
+        <construct class="java.awt.Color">
+            <int>55</int>
+            <int>200</int>
+            <int>100</int>
+        </construct>
+    </entry>
+    <entry id="currency">
+        <factory class="java.util.Currency">
+            <string>USD</string>
+        </factory>
+    </entry>
+    <entry id="seele_i_love_you">
+        <string>希儿世界第一可爱</string>
+    </entry>
+    <entry id="seele_birthday">
+        <int>20001018</int>
+    </entry>
+    <entry id="is_seele_most_lovely_girl">
+        <boolean>true</boolean>
+    </entry>
+</config>

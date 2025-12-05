@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000802//EN" "http://www.w3.org/TR/2000/CR-SVG-20000802/DTD/svg-20000802.dtd">
+<svg height="400" width="600" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#b7ef2f" height="84" width="275" x="66" y="250"/>
+    <rect fill="#6a046d" height="268" width="145" x="343" y="59"/>
+    <rect fill="#fe6522" height="8" width="313" x="26" y="376"/>
+    <rect fill="#4f7899" height="241" width="74" x="191" y="153"/>
+    <rect fill="#da185a" height="6" width="112" x="324" y="209"/>
+    <rect fill="#5d08f9" height="211" width="91" x="354" y="177"/>
+    <rect fill="#3dfd87" height="22" width="8" x="372" y="11"/>
+    <rect fill="#735db2" height="149" width="235" x="142" y="233"/>
+    <rect fill="#1e26a8" height="13" width="52" x="500" y="235"/>
+    <rect fill="#52250e" height="36" width="214" x="253" y="144"/>
+    <rect fill="#44936c" height="144" width="81" x="347" y="46"/>
+    <rect fill="#fb509d" height="252" width="198" x="361" y="7"/>
+    <rect fill="#356114" height="180" width="256" x="98" y="13"/>
+</svg>
