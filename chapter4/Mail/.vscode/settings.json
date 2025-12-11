@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "mail.jar",
+            "activation-1.1.1.jar"
+        ],
+        "exclude": [
+            "lib/dsn.jar",
+            "lib/gimap.jar",
+            "lib/mailapi.jar",
+            "lib/imap.jar",
+            "lib/smtp.jar",
+            "lib/pop3.jar"
+        ]
+    }
+}
